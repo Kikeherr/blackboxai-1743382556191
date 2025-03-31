@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome to ZoicTrack Installer",
+  "license": "License Agreement",
+  "components": "Choose Components",
+  "directory": "Choose Install Location",
+  "installing": "Installing...",
+  "finish": "Installation Complete",
+  "uninstall": "Uninstall ZoicTrack",
+  "desktop_shortcut": "Create Desktop Shortcut",
+  "launch_app": "Launch ZoicTrack",
+  "error_dependencies": "Failed to install required dependencies",
+  "error_space": "Insufficient disk space",
+  "error_permissions": "Administrator permissions required"
+}
