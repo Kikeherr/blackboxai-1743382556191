@@ -1,0 +1,14 @@
+{
+  "welcome": "Bienvenue dans l'installateur ZoicTrack",
+  "license": "Contrat de licence",
+  "components": "Choisir les composants",
+  "directory": "Choisir l'emplacement d'installation",
+  "installing": "Installation en cours...",
+  "finish": "Installation terminée",
+  "uninstall": "Désinstaller ZoicTrack",
+  "desktop_shortcut": "Créer un raccourci sur le bureau",
+  "launch_app": "Lancer ZoicTrack",
+  "error_dependencies": "Échec de l'installation des dépendances requises",
+  "error_space": "Espace disque insuffisant",
+  "error_permissions": "Permissions d'administrateur requises"
+}
