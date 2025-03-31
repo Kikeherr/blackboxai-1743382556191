@@ -1,0 +1,4 @@
+pyinstaller==5.13.2
+pywin32==306
+; Include all your existing requirements
+-r requirements_final.txt
